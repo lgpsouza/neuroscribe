@@ -1,0 +1,5 @@
+# INSTRUÇÕES DE CONFIGURAÇÃO
+# 1. Renomeie este arquivo para ".env.local" (sim, começa com ponto)
+# 2. Substitua o texto abaixo pela sua chave da OpenAI
+
+OPENAI_API_KEY=sk-sua-chave-aqui-substitua-isso
